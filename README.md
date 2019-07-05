@@ -1,6 +1,6 @@
 # 2019NSOpenDataContest
 
-<h2>Introduction:</h2>
+<h3>Introduction:</h3>
 The most common cancer among Nova Scotia males is prostate cancer which can be detected by patient’s mass spectrometry data. Tried 3 classification algorithms (SVM, random forest and KNN), chose SVM based on the performance to build the classifier and predict cancer. The accuracy, AUC, F1-Score and false negative were 0.975, 0.971, 0.978 and 0.
 
 <b>raw data:</b><br>
